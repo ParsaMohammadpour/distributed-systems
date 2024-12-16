@@ -13,3 +13,6 @@ Distributed systems course assignments, references and and slides.
 
 - ### 1st task:
     The topic of this task was about writing **smart contracts** with **SOLIDITY**. Original files are provided [here](https://github.com/ParsaMohammadpour/people-samrt-contract).
+
+- ### 2nd task:
+    The topic of this task was about writing **election system** with **Zero Knowledge Proof (ZKP)** using **solidity** language and deploying it on **zksync sepolia testnet**. Complete files are located [here](https://github.com/ParsaMohammadpour/election-system-zkp/tree/main).
