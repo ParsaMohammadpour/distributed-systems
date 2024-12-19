@@ -11,6 +11,9 @@ Distributed systems course assignments, references and and slides.
 - ### 3rd assignment:
     The topic of this assignment was about **Consensus Algorithms** like **FloodSet** and **EIGByz**. Original file and solution are provided [here](https://github.com/ParsaMohammadpour/distributed-systems/tree/main/3rd-Assignment) and the full code part is provided in [this](https://github.com/ParsaMohammadpour/EIGByz/tree/main) repo.
 
+- ### 4th assignment:
+    The topic of this assignment was about **Two-Phase Commit** and **Three-Phase Commit**. Files are located [here](https://github.com/ParsaMohammadpour/distributed-systems/tree/main/4th-Assignment).
+
 - ### 1st task:
     The topic of this task was about writing **smart contracts** with **SOLIDITY**. Original files are provided [here](https://github.com/ParsaMohammadpour/people-samrt-contract).
 
