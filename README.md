@@ -14,6 +14,9 @@ Distributed systems course assignments, references and and slides.
 - ### 4th assignment:
     The topic of this assignment was about **Two-Phase Commit** and **Three-Phase Commit**. Files are located [here](https://github.com/ParsaMohammadpour/distributed-systems/tree/main/4th-Assignment).
 
+- ### 5th assignment:
+    The topic of this assignment was about **Mutual Exclusion** and its algorithms like **Raymons**, **Ricarti-Agrawala** and **Maekawa**. Files are located [here](https://github.com/ParsaMohammadpour/distributed-systems/tree/main/5th-Assignment) and Raymmonds code are located [here](https://github.com/ParsaMohammadpour/raymond-algorithm).
+
 - ### 1st task:
     The topic of this task was about writing **smart contracts** with **SOLIDITY**. Original files are provided [here](https://github.com/ParsaMohammadpour/people-samrt-contract).
 
